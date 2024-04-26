@@ -27,6 +27,6 @@ We are making this website using:
 ## VERSIONS
 | Sr NO. | Versions | Added changes  |
 |:-----|:--------:|------:|
-| 1   | _rough_ | added basic html and pictures |
+| 1   | _primitive_ | added basic html and pictures |
 | 2   |    |   |
 | 3   |  |     |
