@@ -17,11 +17,11 @@ We are making this website using:
 3. **Javascript**
 
 ## Features
-1. **Homepage**: A visually appealing homepage that introduces the coffee shop, displays featured products, promotions, and events.
+1. **Homepage**: A visually appealing homepage that introduces the coffee shop, displays featured products, promotions, events and offers.
 
-2. **Menu**: A detailed menu showcasing various coffee blends, specialty drinks, pastries, and food items. 
+2. **Menu**: A detailed menu displaying various coffee blends, specialty drinks, pastries, and food items. 
 
-3. **About Us**: Information about the coffee shop's history, mission, values.
+3. **About Us**: Information about the coffee shop's legacy, acheivements, mission, values.
 
 4. **Responsive Design**: Website is optimized for viewing on various devices, including desktops, tablets, and smartphones.
 ## VERSIONS
